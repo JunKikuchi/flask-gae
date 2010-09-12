@@ -1,0 +1,26 @@
+## MAC OS
+.DS_Store
+
+## TEXTMATE
+*.tmproj
+tmtags
+
+## EMACS
+*~
+\#*
+.\#*
+
+## VIM
+*.swp
+
+## Pytion
+*.pyc
+
+## buildout
+.installed.cfg
+/parts
+/develop-eggs
+/bin
+/eggs
+/downloads
+/var
